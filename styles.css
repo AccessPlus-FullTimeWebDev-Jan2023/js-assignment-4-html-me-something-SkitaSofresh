@@ -10,6 +10,10 @@ body{
     color: red;
 }
 
+.funParagraph{
+    color: green;
+}
+
 img{
     width: 800px;
     height:500px;
