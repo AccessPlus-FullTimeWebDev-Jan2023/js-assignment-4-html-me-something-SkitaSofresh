@@ -1,7 +1,13 @@
 /* Write your CSS here! */
 body{
+    margin: 8px;
+    display: block;
     background-color: rgb(141, 123, 123);
     color: whitesmoke;
+}
+
+#mainHeading{
+    color: red;
 }
 
 img{
@@ -10,4 +16,7 @@ img{
 }
 .mycar{
     color: rgb(52, 175, 7);
+}
+article{
+    margin:0 30px;
 }
