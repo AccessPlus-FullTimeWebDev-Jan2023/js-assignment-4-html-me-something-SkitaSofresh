@@ -7,6 +7,21 @@ body{
     
 }
 
+nav{
+    color: limegreen;
+}
+
+li a{
+    color:black;
+}
+
+#id{
+    color:darkturquoise
+}
+h3 span{
+    color:greenyellow
+}
+
 #mainHeading{
     color: red;
     display: flex;
