@@ -1,1 +1,54 @@
 /* Write your CSS here! */
+body{
+    margin: 8px;
+    display: block;
+    /* background-color: rgb(141, 123, 123); */
+    color: whitesmoke;
+    
+}
+
+nav{
+    color: limegreen;
+}
+
+li a{
+    color:black;
+}
+
+#id{
+    color:darkturquoise
+}
+h3 span{
+    color:greenyellow
+}
+
+#mainHeading{
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#ptag{
+    margin: 0 30px;
+}
+
+.funParagraph{
+    color: green;
+}
+
+img{
+    width: 800px;
+    height:500px;
+}
+.mycar{
+    color: rgb(52, 175, 7);
+}
+
+#describe-car{
+    color: green;
+}
+
+article{
+    margin:0 30px;
+}
