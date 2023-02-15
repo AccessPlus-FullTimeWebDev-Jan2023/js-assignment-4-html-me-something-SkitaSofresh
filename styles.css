@@ -2,12 +2,20 @@
 body{
     margin: 8px;
     display: block;
-    background-color: rgb(141, 123, 123);
+    /* background-color: rgb(141, 123, 123); */
     color: whitesmoke;
+    
 }
 
 #mainHeading{
     color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#ptag{
+    margin: 0 30px;
 }
 
 .funParagraph{
@@ -21,6 +29,11 @@ img{
 .mycar{
     color: rgb(52, 175, 7);
 }
+
+#describe-car{
+    color: green;
+}
+
 article{
     margin:0 30px;
 }
